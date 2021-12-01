@@ -16,3 +16,6 @@
 [submodule "hello-flask"]
 	path = hello-flask
 	url = https://github.com/spwashi/hello-flask
+[submodule "hello-spring"]
+	path = hello-spring
+	url = https://github.com/spwashi/hello-spring
