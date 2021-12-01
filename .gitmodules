@@ -13,3 +13,6 @@
 [submodule "hello_django"]
 	path = hello_django
 	url = https://github.com/spwashi/hello_django
+[submodule "hello-flask"]
+	path = hello-flask
+	url = https://github.com/spwashi/hello-flask
