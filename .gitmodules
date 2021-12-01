@@ -1,0 +1,15 @@
+[submodule "hello-next"]
+	path = hello-next
+	url = https://github.com/spwashi/hello-next
+[submodule "hello-react"]
+	path = hello-react
+	url = https://github.com/spwashi/hello-react
+[submodule "hello-vue"]
+	path = hello-vue
+	url = https://github.com/spwashi/hello-vue
+[submodule "hello-angular"]
+	path = hello-angular
+	url = https://github.com/spwashi/hello-angular
+[submodule "hello_django"]
+	path = hello_django
+	url = https://github.com/spwashi/hello_django
