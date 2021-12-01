@@ -19,3 +19,6 @@
 [submodule "hello-spring"]
 	path = hello-spring
 	url = https://github.com/spwashi/hello-spring
+[submodule "hello-docker"]
+	path = hello-docker
+	url = https://github.com/spwashi/hello-docker

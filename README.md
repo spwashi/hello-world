@@ -36,6 +36,7 @@ I'm excited to explore it more.
 
 ### Vue
 I've only installed the CLI. Haven't looked into it much yet.
+Seems interesting.
 
 ### Angular
 I've only installed the CLI. Haven't looked into it much yet.
